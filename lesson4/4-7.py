@@ -8,3 +8,4 @@ def fact(n):
 
 for i in fact(5):
     print(i)
+

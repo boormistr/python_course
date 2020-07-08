@@ -24,3 +24,4 @@ def second(lst, duration):
 
 
 second([1, 2, 3], 3)
+

@@ -7,4 +7,3 @@ def salary(h, r, b):
 
 
 print(salary(int(hours), int(rate), int(bonus)))
-
